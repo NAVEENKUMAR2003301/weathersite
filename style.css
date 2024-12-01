@@ -13,6 +13,8 @@
     padding: 50px;
     border-radius: 10px;
     margin: 100px 200px;
+    position: relative;
+    left: 3px;
 
 }
 #heading{
